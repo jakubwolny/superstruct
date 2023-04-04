@@ -35,7 +35,7 @@
     "eslint-config-prettier": "7.2.0",
     "eslint-plugin-import": "2.23.2",
     "eslint-plugin-prettier": "3.4.0",
-    "is-email": "1.0.0",
+    "is-email": "1.0.2",
     "is-url": "1.2.4",
     "is-uuid": "1.0.2",
     "lodash": "4.17.21",
