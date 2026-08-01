@@ -1181,10 +1181,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/lodash@4.14.169":
-  version "4.14.169"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.169.tgz#83c217688f07a4d9ef8f28a3ebd1d318f6ff4cbb"
-  integrity sha512-DvmZHoHTFJ8zhVYwCLWbQ7uAbYQEk52Ev2/ZiQ7Y7gQGeV9pjBqjnQpECMHfKS1rCYAhMI7LHVxwyZLZinJgdw==
+"@types/lodash@4.17.25":
+  version "4.17.25"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.25.tgz#69765ac7bcddb0eb072961cf292524a8f5b3c2c0"
+  integrity sha512-+K1NIO8I+F9/wNulfVvu23QYd0Pe9/OCqRrim4NoYIf1VoEDL90Ve4ClzpyqBLc7NpGGWRvYNCKZ1BE/Jpf8dQ==
 
 "@types/minimist@^1.2.0":
   version "1.2.1"
